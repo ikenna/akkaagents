@@ -1,0 +1,4 @@
+akkaagents
+==========
+
+Playing with Akka
